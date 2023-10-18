@@ -1,0 +1,815 @@
+/* CSS Document */
+	
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.mainbody{
+	background-image: url("..//images/Screen Shot 2023-10-13 at 10.34.53 AM.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+}
+.chariotimg{
+margin-left: 21%;
+}
+body {
+	background-color: #DC5F00;
+}
+
+.ninlogo {
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+	box-shadow: 10px 0px;
+	border-radius: 15px;
+}
+.h1title {
+	padding: 5px 1px;
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	border: 5px solid #000000;
+	/*background-color: #DC5F00;*/
+	color: block;
+	/*font-family: ;*/
+	font-size: 1.5em;
+	border-radius: 15px;
+}
+img {
+  border: 5px solid #000000;
+  border-radius: 15px;
+}
+li{
+	margin: 0 2em;
+	display: inline;
+}
+li a{
+	text-decoration: none;
+	color: gray;
+	width: 60%;
+	border: 2px solid #000000;
+	padding: .5em 1em;
+	border-radius: 15px;
+	
+}
+li a:hover{
+	text-decoration: none;
+	color: black;
+	width: 60%;
+	border: 2px solid #000000;
+	padding: .5em .5em;
+	background-color: white;
+}
+.nav{
+	text-align: center;
+	/*font-family: 'Press Start 2P', cursive;*/
+	font-size: .79em;
+	padding: 2%;
+}
+.whoarewe {
+	padding: 5px 1px;
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	color: black;
+	border: 5px solid #000000;
+	border-radius: 15px;
+}
+.weare {
+	font-size: 25px;
+	text-align: center;
+	color: black;
+	border: 2px solid #000000;
+	margin: 5px;
+	border-radius: 15px;
+	padding: 1.5%;
+}
+.weare2{
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	border: 2px solid #000000;
+	margin: 5px;
+	border-radius: 15px;
+	padding: 1.5%;
+	
+}
+.devon {
+	width: 30%;
+	margin: 0 auto;
+	padding: 1em;
+}
+.doug {
+	width: 30%;
+	margin: 0 auto;
+	padding: 1em;
+}
+.robyn {
+	width: 30%;
+	margin: 0 auto; 
+	padding: 1em;
+}
+
+body {
+	/*background-image: url("..//images/idg4aqn5l0lh40dk.jpeg");*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.mainbody {
+	min-height: 1000px;
+	background-color: #ffffff66;
+}
+
+.hnav {
+	width: 100%;
+	background-color: #11181E88;
+	min-height: 50px;
+	text-align: center;
+}
+
+.hnav ul {
+	display: block;
+	padding-top: .5em;
+}
+
+.hnav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+	padding: 0 .5%;
+}
+
+.hnav a {
+	text-decoration: none;
+	color: #E4F2EA;
+	font-size: 1.7em;
+	font-weight: bold;
+}
+
+.hnav a:hover {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.fnav {
+	width: 100%;
+	background-color: #00000088;
+	min-height: 50px;
+	text-align: center;
+	color: white;
+}
+
+.fnav ul {
+	display: block;
+	padding-top: .5em;
+}
+
+.fnav ul li {
+	display: inline-block;
+	width: 8%;
+	list-style-type: none;
+	padding: 0 0%;
+	margin: 1%; 
+}
+
+.fnav a {
+	text-decoration: none;
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.fnav a:hover {
+	text-decoration: none;
+	color: black;
+	width: 60%;
+	border: 2px solid #000000;
+	padding: .5em .5em;
+	background-color: white;
+}
+
+.indexh1 {
+	text-align: center;
+	font-size: 10em;
+  background-color: -webkit-linear-gradient(#FFD700, red);
+  -webkit-background-clip: text;
+	 font-family: "ONE PIECE";
+}
+
+.grid-container {
+  display: grid;
+  row-gap: 50px;
+}
+
+.shanksbtn {
+	background-image: url("../images/Untitled-1.png");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: darkred;
+}
+
+.shanksbtn a:hover {
+	background-image: url("../images/ddh2a1s-b05c3987-0b89-472b-ba43-2c8f3bd6247c.png")
+}
+
+.shanksh1 {
+	text-align: center;
+	font-size: 10em;
+  background-color: -webkit-linear-gradient(#FFD700, red);
+  -webkit-background-clip: text;
+	 font-family: "ONE PIECE";
+	color: white;
+	border: double 10px;
+	border-radius: 0, 0, 0, 0;
+}
+
+.shanksmain {
+	min-height:650px;
+	border: 10px solid;
+	background-color: #00000088;
+	margin: 3% 5% 3% 5%;
+}
+
+.shanksp {
+	color: white;
+	font-size: 2em;
+	text-align: center;
+}
+	
+.shanksbody {
+	background-image: url("../images/shanksbody.jpg");
+	background-size: cover;
+}
+
+.shankshnav {
+	width: 100%;
+	background-color: #11181E88;
+	min-height: 50px;
+	text-align: center;
+}
+
+.shankshnav ul {
+	display: block;
+	padding-top: .5em;
+	text-align: center;
+	color: white;
+	font-family: 'Edu NSW ACT Foundation', cursive;
+	font-size: 2em;
+}
+
+.shankshnav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+	padding: 0 .5%;
+	text-align: center;
+}
+
+.shankshnav a {
+	text-decoration: none;
+	color: white;
+	font-size: 1.7em;
+	font-weight: bold;
+	text-align: center;
+}
+
+.shankshnav a:hover {
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}
+
+ .akainubtn{
+	background-image: url("../images/akainu.png");
+	margin: 4% 9%;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: #D84B17;
+	font-size: 1.5em;
+}
+
+.akainubody{
+	background-image: url("../images/admiral akainu.jpeg");
+	background-size: cover;
+}
+
+.akainuhnav {
+	width: 100%;
+	background-color: #11181E88;
+	min-height: 50px;
+	text-align: center;
+}
+
+.akainuhnav ul {
+	display: block;
+	padding-top: .5em;
+	text-align: center;
+	color: white;
+	font-family: 'Edu NSW ACT Foundation', cursive;
+	font-size: 2em;
+}
+
+.akainuhnav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+	padding: 0 .5%;
+	text-align: center;
+}
+
+.akainuhnav a {
+	text-decoration: none;
+	color: white;
+	font-size: 1.7em;
+	font-weight: bold;
+	text-align: center;
+}
+
+.akainuhnav a:hover {
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}
+
+
+.akainumain{
+	border: groove 10px;
+	margin: 2%;
+}
+
+.akainuh1{
+	border: groove 10px;
+	font-size: 5em;
+	color: red;
+	text-align: center;
+	 font-family: "ONE PIECE";
+	background-color: #00000066;
+}
+
+.akainup{
+	font-size: 1.5em;
+	color: white;
+	text-align: center;
+	background-color: #00000066;
+}
+
+ .kaidobtn{
+	background-image: url("../images/kaido.png");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: dodgerblue;
+} 
+
+.kaidobody {
+	background-image: url("..//images/kaido.jpeg");
+	background-position: center;
+}
+
+.kaidoh1 {
+	color: white;
+	text-align: center;
+	margin-top: 3%;
+	font-size: 10em;
+  background-color: #00000088;
+	 font-family: "ONE PIECE";
+	border: solid #000000 10px;
+	border-radius: 0, 0, 0, 0;
+}
+
+.kaidomain {
+	min-height:650px;
+	border: 10px solid;
+	background-color: #00000099;
+	margin: 3% 5% 3% 5%;
+}
+
+.kaidohnav {
+	width: 100%;
+	background-color: #ffffff22;
+	min-height: 50px;
+	text-align: center;
+}
+
+.kaidohnav ul {
+	display: block;
+	padding-top: .5em;
+	text-align: center;
+	color: white;
+	font-family: 'Edu NSW ACT Foundation', cursive;
+	font-size: 2em;
+}
+
+.kaidohnav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+	padding: 0 .5%;
+	text-align: center;
+}
+
+.kaidohnav a {
+	text-decoration: none;
+	color: white;
+	font-size: 1.7em;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 3%;
+}
+
+.kaidohnav a:hover {
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}
+
+.kaidop {
+	text-align: center;
+	font-size: 2em;color: white;
+}
+
+.dragonbtn {
+	background-image: url("..//images/dragonbtnpic.png");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.dragonbody {
+	background-image: url("..//images/dragonbackground.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.dragonh1 {
+	color: white;
+	font-family: "ONE PIECE";
+	text-align: center;
+	font-size: 8em;
+	border: ridge white 8px;
+}
+
+.dragonp {
+	color: white;
+	font-size: 2em;
+	text-align: center;
+	border: ridge white 5px;
+	margin: 2%;
+	padding: 1%;
+}
+
+.dragonhnav {
+	width: 100%;
+	min-height: 50px;
+	text-align: center;
+	margin-bottom: 3%
+}
+
+.dragonhnav ul {
+	display: block;
+	padding-top: .5em;
+	text-align: center;
+	color: white;
+	font-family: 'Edu NSW ACT Foundation', cursive;
+	font-size: 2em;
+}
+
+.dragonhnav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+	padding: 0 .5%;
+	text-align: center;
+}
+
+.dragonhnav a {
+	text-decoration: none;
+	color: white;
+	font-size: 1.7em;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 3%;
+}
+
+.dragonhnav a:hover {
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}
+
+
+
+.mombtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.bigbody {
+	background-image: url("..//images/Big_Mom.webp");
+	background-repeat: no-repeat;
+	background-size: cover
+}
+
+.mcbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.mihawkbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.bbbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.aokijibtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.kizbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+	text-align: right;
+} 
+/*
+.garpbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.raybtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.sengbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.marcobtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.katabtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.bennbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.sabobtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.fujibtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.greenbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.luckybtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.zsbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.kingbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.kidbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.yamatobtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.lawbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.yassbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.doffybtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.godbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.robbtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} 
+
+.jinbeibtn{
+	background-image: url("");
+	margin: 4% 9%;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 2%;
+    width: 200px;
+    height: 145px;
+    color: white;
+} */
+footer {
+	color: white;
+}
+
